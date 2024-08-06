@@ -29,6 +29,7 @@ Definition Lists:
       <p> paragraph </p>
       <q> quote </q>
       <cite> Name </cite>
+      <ul></ul>
 </blockquote>
 <time datetime="2025-05-08">May 8, 2025</time>.
 
@@ -36,3 +37,10 @@ Definition Lists:
 <pre>: Makes spacing to be an integral part of the content's meaning. 
 
 HTML Superscripts, Subscripts and Smalltexts:
+      <p>H<sub>2</sub>O</P>
+      <P> Something that has a footnote.<sup>2</sup></P>
+      <small> Something small in it's level of importance </small>
+
+
+
+      
