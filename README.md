@@ -24,3 +24,15 @@ Definition Lists:
   <dt> Definition term </dt>
   <dd> Definition description </dd>
 </dl>
+
+<blockquote>
+      <p> paragraph </p>
+      <q> quote </q>
+      <cite> Name </cite>
+</blockquote>
+<time datetime="2025-05-08">May 8, 2025</time>.
+
+<br>: Line Breaks
+<pre>: Makes spacing to be an integral part of the content's meaning. 
+
+HTML Superscripts, Subscripts and Smalltexts:
